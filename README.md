@@ -40,3 +40,10 @@ Visualização da Árvore de Decisão:
 
 A visualização da árvore de decisão é útil para entender como o modelo faz previsões. 
 
+![image](https://github.com/user-attachments/assets/d6062221-bfd9-4985-9027-513ccdebd81b)
+
+![image](https://github.com/user-attachments/assets/ee4690c8-eecf-4bb8-a54c-ffca74a7e295)
+
+![image](https://github.com/user-attachments/assets/978f3290-8fd8-4873-84c8-26aacc4cf3c3)
+
+
